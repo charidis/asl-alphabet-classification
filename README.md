@@ -24,7 +24,7 @@ This project implements an image classification for American Sign Language (ASL)
   - Plots training/test loss and F1 scores over epochs.
   - Visualizes a test batch with predicted and ground truth labels.
 
-## Requirements
+## Tools and Libraries Used
 
 - Python 3.x
 - [kagglehub]([https://github.com/](https://www.kaggle.com/datasets/grassknoted/asl-alphabet)) 
